@@ -1,0 +1,4 @@
+Cars146_plate_0.png: No text detected
+Cars146_plate_1.png: No text detected
+Cars146_plate_2.png: No text detected
+Cars146_plate_3.png: No text detected

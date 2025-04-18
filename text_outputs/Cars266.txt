@@ -1,0 +1,6 @@
+Cars266_plate_0.png: CU50C5
+Cars266_plate_1.png: No text detected
+Cars266_plate_2.png: No text detected
+Cars266_plate_3.png: No text detected
+Cars266_plate_4.png: No text detected
+Cars266_plate_5.png: 486H5

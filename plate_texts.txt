@@ -1,0 +1,473 @@
+Filename|Detected Text|Confidence
+----------------------------------------
+Cars0_plate_0.png|KLO1CA2555|0.893
+Cars100_plate_0.png||0.0
+Cars101_plate_0.png||0.0
+Cars102_plate_0.png|6861136|0.577
+Cars103_plate_0.png|No text detected|0.0
+Cars103_plate_1.png|No text detected|0.0
+Cars104_plate_0.png||0.0
+Cars105_plate_0.png||0.0
+Cars106_plate_0.png|No text detected|0.0
+Cars106_plate_1.png|No text detected|0.0
+Cars106_plate_2.png|No text detected|0.0
+Cars106_plate_3.png|No text detected|0.0
+Cars107_plate_0.png|MH2OB020|0.868
+Cars108_plate_0.png||0.0
+Cars109_plate_0.png|CZI7KOD|0.457
+Cars10_plate_0.png|2765|0.987
+Cars110_plate_0.png|No text detected|0.0
+Cars111_plate_0.png|MH20EE7598|0.854
+Cars112_plate_0.png||0.0
+Cars113_plate_0.png|SHINGTON|0.506
+Cars114_plate_0.png|585AP29BP|0.872
+Cars115_plate_0.png|MS66YOB|0.675
+Cars116_plate_0.png|MK3532|0.987
+Cars117_plate_0.png|No text detected|0.0
+Cars118_plate_0.png|JA62UAR|0.722
+Cars119_plate_0.png|No text detected|0.0
+Cars11_plate_0.png||0.0
+Cars120_plate_0.png|B2228HM|0.966
+Cars121_plate_0.png|No text detected|0.0
+Cars122_plate_0.png||0.0
+Cars123_plate_0.png|HR26BC5S14|0.705
+Cars124_plate_0.png|No text detected|0.0
+Cars125_plate_0.png|RP|0.827
+Cars126_plate_0.png|MG1909|0.742
+Cars127_plate_0.png||0.0
+Cars128_plate_0.png|OX65|0.471
+Cars129_plate_0.png|OPECLOL|0.806
+Cars12_plate_0.png||0.0
+Cars130_plate_0.png|KR26BR9044|0.664
+Cars131_plate_0.png|585AP29BP|0.934
+Cars132_plate_0.png|No text detected|0.0
+Cars132_plate_1.png|No text detected|0.0
+Cars133_plate_0.png|No text detected|0.0
+Cars134_plate_0.png||0.0
+Cars135_plate_0.png||0.0
+Cars136_plate_0.png||0.0
+Cars137_plate_0.png|No text detected|0.0
+Cars138_plate_0.png||0.0
+Cars139_plate_0.png|No text detected|0.0
+Cars139_plate_1.png|No text detected|0.0
+Cars13_plate_0.png||0.0
+Cars140_plate_0.png||0.0
+Cars141_plate_0.png|No text detected|0.0
+Cars142_plate_0.png|No text detected|0.0
+Cars143_plate_0.png||0.0
+Cars143_plate_1.png||0.0
+Cars144_plate_0.png|PEN15|0.92
+Cars145_plate_0.png||0.0
+Cars146_plate_0.png|No text detected|0.0
+Cars146_plate_1.png|No text detected|0.0
+Cars146_plate_2.png|No text detected|0.0
+Cars146_plate_3.png|No text detected|0.0
+Cars147_plate_0.png|KLO1CA2555|0.459
+Cars148_plate_0.png||0.0
+Cars149_plate_0.png||0.0
+Cars14_plate_0.png|ALR486|0.83
+Cars150_plate_0.png|DL8CX4850|0.637
+Cars151_plate_0.png||0.0
+Cars152_plate_0.png||0.0
+Cars153_plate_0.png|MH20B020|0.499
+Cars154_plate_0.png|KA092662|0.831
+Cars155_plate_0.png||0.0
+Cars156_plate_0.png|PRIVATE|0.893
+Cars157_plate_0.png|No text detected|0.0
+Cars158_plate_0.png|695299CENTROAMERICA|0.76
+Cars159_plate_0.png||0.0
+Cars15_plate_0.png||0.0
+Cars160_plate_0.png||0.0
+Cars161_plate_0.png|MSE6YOB|0.438
+Cars162_plate_0.png||0.0
+Cars163_plate_0.png|LR33TEE|0.637
+Cars164_plate_0.png|No text detected|0.0
+Cars165_plate_0.png||0.0
+Cars166_plate_0.png||0.0
+Cars167_plate_0.png|15LK10898|0.948
+Cars168_plate_0.png||0.0
+Cars169_plate_0.png|PRIVATE|0.789
+Cars16_plate_0.png|No text detected|0.0
+Cars170_plate_0.png||0.0
+Cars171_plate_0.png||0.0
+Cars172_plate_0.png||0.0
+Cars173_plate_0.png||0.0
+Cars174_plate_0.png|No text detected|0.0
+Cars174_plate_1.png|No text detected|0.0
+Cars175_plate_0.png|DLIN4260|0.716
+Cars176_plate_0.png|AOALFTH|0.738
+Cars177_plate_0.png|GOOD|0.418
+Cars178_plate_0.png|522322|0.921
+Cars179_plate_0.png||0.0
+Cars17_plate_0.png||0.0
+Cars180_plate_0.png|MPEACNSHINGTON|0.723
+Cars181_plate_0.png||0.0
+Cars182_plate_0.png||0.0
+Cars183_plate_0.png|BRIT0001|0.919
+Cars184_plate_0.png|No text detected|0.0
+Cars185_plate_0.png|MF9000|0.708
+Cars186_plate_0.png||0.0
+Cars187_plate_0.png|ALR486|0.979
+Cars188_plate_0.png|No text detected|0.0
+Cars189_plate_0.png|ANODO|0.543
+Cars18_plate_0.png||0.0
+Cars190_plate_0.png|KL5442670|0.402
+Cars191_plate_0.png|3380|0.997
+Cars192_plate_0.png|0E4GLE|0.658
+Cars193_plate_0.png||0.0
+Cars194_plate_0.png|No text detected|0.0
+Cars195_plate_0.png||0.0
+Cars196_plate_0.png|No text detected|0.0
+Cars197_plate_0.png|LR33TEE|0.835
+Cars198_plate_0.png||0.0
+Cars199_plate_0.png||0.0
+Cars19_plate_0.png||0.0
+Cars1_plate_0.png|PGEMN112|0.904
+Cars200_plate_0.png|3380|0.582
+Cars201_plate_0.png||0.0
+Cars202_plate_0.png||0.0
+Cars203_plate_0.png||0.0
+Cars204_plate_0.png|BYOND|0.421
+Cars205_plate_0.png||0.0
+Cars206_plate_0.png||0.0
+Cars207_plate_0.png|K8L7ER|0.403
+Cars208_plate_0.png|V8|0.699
+Cars209_plate_0.png|No text detected|0.0
+Cars20_plate_0.png|No text detected|0.0
+Cars210_plate_0.png|MHHO1AE8O17|0.416
+Cars211_plate_0.png|F65022DUBAIL4|0.587
+Cars212_plate_0.png|KL66H4383|0.846
+Cars213_plate_0.png||0.0
+Cars214_plate_0.png|No text detected|0.0
+Cars215_plate_0.png|CH9906|0.457
+Cars216_plate_0.png|OPECLOL|0.447
+Cars217_plate_0.png||0.0
+Cars218_plate_0.png|No text detected|0.0
+Cars219_plate_0.png|KA03MG2784|0.79
+Cars21_plate_0.png|No text detected|0.0
+Cars220_plate_0.png||0.0
+Cars221_plate_0.png|No text detected|0.0
+Cars222_plate_0.png||0.0
+Cars223_plate_0.png||0.0
+Cars224_plate_0.png||0.0
+Cars225_plate_0.png|JA62UAR|0.722
+Cars226_plate_0.png||0.0
+Cars227_plate_0.png||0.0
+Cars228_plate_0.png|No text detected|0.0
+Cars229_plate_0.png|No text detected|0.0
+Cars22_plate_0.png||0.0
+Cars230_plate_0.png|LR33TEE|0.535
+Cars231_plate_0.png|GBIETCE|0.528
+Cars232_plate_0.png|No text detected|0.0
+Cars233_plate_0.png|No text detected|0.0
+Cars234_plate_0.png|IMJU555|0.57
+Cars235_plate_0.png||0.0
+Cars236_plate_0.png|No text detected|0.0
+Cars237_plate_0.png||0.0
+Cars238_plate_0.png||0.0
+Cars239_plate_0.png|15LK10898|0.953
+Cars23_plate_0.png|No text detected|0.0
+Cars240_plate_0.png|CPE|0.597
+Cars241_plate_0.png|354123|0.822
+Cars242_plate_0.png|No text detected|0.0
+Cars243_plate_0.png|KA03MG2784|0.702
+Cars244_plate_0.png|2180127|0.894
+Cars245_plate_0.png|KR26BR9044|0.649
+Cars246_plate_0.png|No text detected|0.0
+Cars247_plate_0.png|2765|0.783
+Cars248_plate_0.png||0.0
+Cars249_plate_0.png|No text detected|0.0
+Cars249_plate_1.png|No text detected|0.0
+Cars249_plate_2.png|No text detected|0.0
+Cars249_plate_3.png||0.0
+Cars24_plate_0.png|269C5514|0.49
+Cars250_plate_0.png||0.0
+Cars251_plate_0.png||0.0
+Cars252_plate_0.png|DAN54P|0.766
+Cars253_plate_0.png|No text detected|0.0
+Cars254_plate_0.png||0.0
+Cars255_plate_0.png|MH20EJ0364|0.669
+Cars256_plate_0.png|LBC|0.773
+Cars257_plate_0.png|OKLAL|0.619
+Cars258_plate_0.png|No text detected|0.0
+Cars259_plate_0.png|MH20EE7598|0.633
+Cars25_plate_0.png||0.0
+Cars260_plate_0.png||0.0
+Cars261_plate_0.png||0.0
+Cars262_plate_0.png||0.0
+Cars263_plate_0.png|MH02CB4545|0.856
+Cars264_plate_0.png|F|0.722
+Cars265_plate_0.png|771278|0.947
+Cars266_plate_0.png||0.0
+Cars266_plate_1.png||0.0
+Cars266_plate_2.png|No text detected|0.0
+Cars266_plate_3.png||0.0
+Cars266_plate_4.png||0.0
+Cars266_plate_5.png|5|0.996
+Cars267_plate_0.png|QA722|0.426
+Cars268_plate_0.png|RUUS|0.453
+Cars269_plate_0.png|No text detected|0.0
+Cars26_plate_0.png||0.0
+Cars270_plate_0.png||0.0
+Cars271_plate_0.png||0.0
+Cars272_plate_0.png|RXGIGDU|0.694
+Cars273_plate_0.png|BRIT0001|0.786
+Cars274_plate_0.png||0.0
+Cars275_plate_0.png||0.0
+Cars276_plate_0.png||0.0
+Cars277_plate_0.png|No text detected|0.0
+Cars277_plate_1.png|No text detected|0.0
+Cars277_plate_2.png|No text detected|0.0
+Cars277_plate_3.png|No text detected|0.0
+Cars278_plate_0.png|No text detected|0.0
+Cars279_plate_0.png||0.0
+Cars27_plate_0.png|DZIZYXR|0.693
+Cars280_plate_0.png|No text detected|0.0
+Cars281_plate_0.png|MM01DB0001|0.522
+Cars282_plate_0.png|6861136|0.543
+Cars283_plate_0.png|No text detected|0.0
+Cars283_plate_1.png|No text detected|0.0
+Cars284_plate_0.png|KA092662|0.787
+Cars285_plate_0.png|26BR9044|0.967
+Cars286_plate_0.png||0.0
+Cars287_plate_0.png||0.0
+Cars288_plate_0.png||0.0
+Cars289_plate_0.png||0.0
+Cars28_plate_0.png||0.0
+Cars290_plate_0.png|No text detected|0.0
+Cars291_plate_0.png|48579|0.844
+Cars292_plate_0.png||0.0
+Cars293_plate_0.png|GBIETCE|0.792
+Cars294_plate_0.png|01CCI4MM|0.431
+Cars295_plate_0.png|No text detected|0.0
+Cars295_plate_1.png||0.0
+Cars296_plate_0.png|145|1.0
+Cars297_plate_0.png|IMJU555|0.555
+Cars298_plate_0.png||0.0
+Cars299_plate_0.png|SDN7484U|0.987
+Cars29_plate_0.png|No text detected|0.0
+Cars2_plate_0.png||0.0
+Cars300_plate_0.png||0.0
+Cars301_plate_0.png|6526JHD|0.669
+Cars302_plate_0.png|KL01CC50|0.678
+Cars303_plate_0.png|KL5442670|0.457
+Cars304_plate_0.png|HNCH|0.466
+Cars305_plate_0.png||0.0
+Cars306_plate_0.png|LAWYER|0.935
+Cars307_plate_0.png|M906090K|0.903
+Cars308_plate_0.png||0.0
+Cars309_plate_0.png||0.0
+Cars30_plate_0.png||0.0
+Cars310_plate_0.png||0.0
+Cars311_plate_0.png||0.0
+Cars311_plate_1.png|No text detected|0.0
+Cars312_plate_0.png|BES|1.0
+Cars313_plate_0.png||0.0
+Cars314_plate_0.png|6PIV728|0.438
+Cars315_plate_0.png|GBJJ98257|0.756
+Cars316_plate_0.png|No text detected|0.0
+Cars316_plate_1.png||0.0
+Cars317_plate_0.png|HR26C5514|0.417
+Cars318_plate_0.png|ALR486|0.525
+Cars319_plate_0.png|FALLYU|0.561
+Cars31_plate_0.png|V63LB|0.508
+Cars320_plate_0.png|MA2662|0.801
+Cars321_plate_0.png||0.0
+Cars322_plate_0.png|700|0.994
+Cars323_plate_0.png|TN99F2378|0.859
+Cars324_plate_0.png||0.0
+Cars325_plate_0.png|No text detected|0.0
+Cars326_plate_0.png|DLACX4850|0.432
+Cars327_plate_0.png|PGEMN112|0.805
+Cars328_plate_0.png|IMJU555|0.555
+Cars329_plate_0.png|No text detected|0.0
+Cars32_plate_0.png|MANISA|0.848
+Cars330_plate_0.png||0.0
+Cars330_plate_1.png||0.0
+Cars330_plate_2.png|No text detected|0.0
+Cars330_plate_3.png|No text detected|0.0
+Cars331_plate_0.png||0.0
+Cars332_plate_0.png|YXR|0.988
+Cars333_plate_0.png|MH20EJ0364|0.898
+Cars334_plate_0.png||0.0
+Cars335_plate_0.png||0.0
+Cars336_plate_0.png|DLECX4850|0.705
+Cars337_plate_0.png|No text detected|0.0
+Cars338_plate_0.png|No text detected|0.0
+Cars339_plate_0.png||0.0
+Cars33_plate_0.png|AND|0.587
+Cars340_plate_0.png||0.0
+Cars341_plate_0.png||0.0
+Cars342_plate_0.png||0.0
+Cars343_plate_0.png||0.0
+Cars344_plate_0.png|GOOGLE|0.67
+Cars345_plate_0.png||0.0
+Cars346_plate_0.png|3380|0.684
+Cars347_plate_0.png|No text detected|0.0
+Cars348_plate_0.png|EAB|0.74
+Cars349_plate_0.png||0.0
+Cars34_plate_0.png|LCN5617|0.483
+Cars350_plate_0.png|No text detected|0.0
+Cars351_plate_0.png||0.0
+Cars352_plate_0.png|No text detected|0.0
+Cars352_plate_1.png|No text detected|0.0
+Cars353_plate_0.png|3380|1.0
+Cars354_plate_0.png|No text detected|0.0
+Cars355_plate_0.png||0.0
+Cars356_plate_0.png||0.0
+Cars357_plate_0.png||0.0
+Cars358_plate_0.png||0.0
+Cars358_plate_1.png||0.0
+Cars359_plate_0.png|No text detected|0.0
+Cars35_plate_0.png||0.0
+Cars360_plate_0.png|No text detected|0.0
+Cars361_plate_0.png|MPEACHME|0.599
+Cars362_plate_0.png|No text detected|0.0
+Cars363_plate_0.png||0.0
+Cars364_plate_0.png||0.0
+Cars365_plate_0.png|TH21BZ0768|0.484
+Cars366_plate_0.png|MHZOB020|0.46
+Cars367_plate_0.png|GOOGLE|0.424
+Cars368_plate_0.png||0.0
+Cars369_plate_0.png|15LK10898|0.97
+Cars36_plate_0.png|MIDLYPH|0.725
+Cars370_plate_0.png|CHO1|0.448
+Cars371_plate_0.png|No text detected|0.0
+Cars372_plate_0.png||0.0
+Cars373_plate_0.png|TN218C6225|0.493
+Cars374_plate_0.png||0.0
+Cars375_plate_0.png|CANMELDUE|0.753
+Cars376_plate_0.png|B2228HM|0.966
+Cars377_plate_0.png||0.0
+Cars378_plate_0.png|No text detected|0.0
+Cars379_plate_0.png|9239|0.735
+Cars37_plate_0.png|FAST|0.986
+Cars380_plate_0.png||0.0
+Cars381_plate_0.png||0.0
+Cars382_plate_0.png|CRAIG|0.987
+Cars383_plate_0.png|No text detected|0.0
+Cars384_plate_0.png||0.0
+Cars385_plate_0.png||0.0
+Cars386_plate_0.png|AB44887|0.931
+Cars387_plate_0.png|HR26AZ5927|0.532
+Cars388_plate_0.png||0.0
+Cars389_plate_0.png|AB44887|0.967
+Cars38_plate_0.png||0.0
+Cars390_plate_0.png|No text detected|0.0
+Cars390_plate_1.png|No text detected|0.0
+Cars391_plate_0.png||0.0
+Cars392_plate_0.png||0.0
+Cars393_plate_0.png|771276|0.611
+Cars394_plate_0.png||0.0
+Cars395_plate_0.png||0.0
+Cars396_plate_0.png|EREAPZRL|0.407
+Cars397_plate_0.png|No text detected|0.0
+Cars398_plate_0.png|No text detected|0.0
+Cars399_plate_0.png||0.0
+Cars39_plate_0.png||0.0
+Cars3_plate_0.png|DZI7YXR|0.934
+Cars400_plate_0.png|No text detected|0.0
+Cars401_plate_0.png||0.0
+Cars402_plate_0.png||0.0
+Cars403_plate_0.png||0.0
+Cars403_plate_1.png|No text detected|0.0
+Cars404_plate_0.png|No text detected|0.0
+Cars405_plate_0.png||0.0
+Cars406_plate_0.png|1268|0.829
+Cars407_plate_0.png|No text detected|0.0
+Cars408_plate_0.png|No text detected|0.0
+Cars409_plate_0.png||0.0
+Cars40_plate_0.png||0.0
+Cars410_plate_0.png|EWHPOOPVIRGINIA|0.714
+Cars411_plate_0.png|VIPER|1.0
+Cars412_plate_0.png|LR33TEE|0.898
+Cars413_plate_0.png|054|0.885
+Cars413_plate_1.png|No text detected|0.0
+Cars414_plate_0.png|No text detected|0.0
+Cars415_plate_0.png||0.0
+Cars416_plate_0.png|172|0.98
+Cars417_plate_0.png|BAD231|0.867
+Cars418_plate_0.png|OX65|0.501
+Cars419_plate_0.png|9239|0.79
+Cars41_plate_0.png|No text detected|0.0
+Cars420_plate_0.png||0.0
+Cars421_plate_0.png|No text detected|0.0
+Cars422_plate_0.png||0.0
+Cars423_plate_0.png||0.0
+Cars424_plate_0.png|KA03MG2784|0.889
+Cars425_plate_0.png|6526JHD|0.474
+Cars426_plate_0.png|CRAIG|0.9
+Cars427_plate_0.png||0.0
+Cars428_plate_0.png|DZI7YXR|0.93
+Cars429_plate_0.png|KAISER|0.96
+Cars42_plate_0.png||0.0
+Cars430_plate_0.png|BCG|0.809
+Cars431_plate_0.png|INDKL|0.997
+Cars432_plate_0.png||0.0
+Cars43_plate_0.png|MH203020|0.644
+Cars44_plate_0.png|INDDLZCAG0786|0.889
+Cars45_plate_0.png||0.0
+Cars46_plate_0.png|GN9239|0.794
+Cars47_plate_0.png|No text detected|0.0
+Cars48_plate_0.png|ALR486|0.786
+Cars49_plate_0.png||0.0
+Cars4_plate_0.png|BES|0.999
+Cars50_plate_0.png|PUIOBES|0.41
+Cars51_plate_0.png||0.0
+Cars52_plate_0.png||0.0
+Cars53_plate_0.png|CHIOOSE|0.605
+Cars54_plate_0.png||0.0
+Cars55_plate_0.png|No text detected|0.0
+Cars56_plate_0.png|BOSSKL|0.75
+Cars57_plate_0.png||0.0
+Cars58_plate_0.png|MH01DB0001|0.529
+Cars59_plate_0.png||0.0
+Cars5_plate_0.png|No text detected|0.0
+Cars60_plate_0.png|US|0.501
+Cars61_plate_0.png||0.0
+Cars62_plate_0.png||0.0
+Cars63_plate_0.png||0.0
+Cars64_plate_0.png|TAX|0.494
+Cars65_plate_0.png||0.0
+Cars66_plate_0.png|No text detected|0.0
+Cars67_plate_0.png|7077|0.994
+Cars68_plate_0.png||0.0
+Cars69_plate_0.png||0.0
+Cars6_plate_0.png|MAY802LINVIRGINIA07|0.779
+Cars70_plate_0.png|No text detected|0.0
+Cars71_plate_0.png|No text detected|0.0
+Cars71_plate_1.png|No text detected|0.0
+Cars72_plate_0.png||0.0
+Cars73_plate_0.png|TN99F2378|0.722
+Cars74_plate_0.png|CZI7KOD|0.656
+Cars75_plate_0.png|No text detected|0.0
+Cars76_plate_0.png|MH31EA|0.998
+Cars77_plate_0.png|JR26CU6799|0.403
+Cars78_plate_0.png|KL5442670|0.43
+Cars79_plate_0.png|GETQIL|0.661
+Cars7_plate_0.png|No text detected|0.0
+Cars80_plate_0.png|BAD231|0.996
+Cars81_plate_0.png|No text detected|0.0
+Cars82_plate_0.png||0.0
+Cars83_plate_0.png|ICOIUUL|0.461
+Cars84_plate_0.png|HR269C5514|0.406
+Cars85_plate_0.png||0.0
+Cars85_plate_1.png|No text detected|0.0
+Cars86_plate_0.png||0.0
+Cars87_plate_0.png|No text detected|0.0
+Cars87_plate_1.png|No text detected|0.0
+Cars88_plate_0.png||0.0
+Cars89_plate_0.png||0.0
+Cars89_plate_1.png|No text detected|0.0
+Cars8_plate_0.png|6526JHD|0.411
+Cars90_plate_0.png|No text detected|0.0
+Cars91_plate_0.png||0.0
+Cars92_plate_0.png|4|0.654
+Cars93_plate_0.png|No text detected|0.0
+Cars94_plate_0.png|No text detected|0.0
+Cars95_plate_0.png||0.0
+Cars96_plate_0.png|PGENN12|0.573
+Cars97_plate_0.png|KA11902|0.822
+Cars98_plate_0.png||0.0
+Cars99_plate_0.png|MA2662|0.86
+Cars9_plate_0.png||0.0

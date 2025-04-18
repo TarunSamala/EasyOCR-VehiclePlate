@@ -1,0 +1,2 @@
+Cars413_plate_0.png: OLWS
+Cars413_plate_1.png: No text detected

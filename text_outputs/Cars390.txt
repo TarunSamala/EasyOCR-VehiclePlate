@@ -1,0 +1,2 @@
+Cars390_plate_0.png: 43R
+Cars390_plate_1.png: No text detected
