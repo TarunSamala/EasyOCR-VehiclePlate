@@ -1,90 +1,74 @@
 import os
 import cv2
 import easyocr
+import re
 from pathlib import Path
 
-class PlateTextExtractor:
+class IndianPlateExtractor:
     def __init__(self, gpu=False):
-        """
-        Initialize text extractor for license plates
-        :param gpu: Boolean flag for GPU acceleration
-        """
         self.reader = easyocr.Reader(['en'], gpu=gpu)
-        self.output_file = "plate_texts.txt"
-        self.confidence_threshold = 0.4  # Minimum confidence to consider
+        self.output_file = "indian_plates.txt"
+        self.plate_pattern = re.compile(r'^[A-Z]{2}\d{2}[A-Z]{1,2}\d{4}$')
         
     def preprocess_image(self, image):
-        """Enhance plate image for better OCR results"""
+        """Optimized preprocessing for Indian plates"""
         gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
-        denoised = cv2.fastNlMeansDenoising(gray, None, 10, 7, 21)
-        _, thresh = cv2.threshold(denoised, 0, 255,
+        denoised = cv2.fastNlMeansDenoising(gray, None, 15, 7, 21)
+        clahe = cv2.createCLAHE(clipLimit=3.0, tileGridSize=(8,8))
+        enhanced = clahe.apply(denoised)
+        _, thresh = cv2.threshold(enhanced, 0, 255, 
                                 cv2.THRESH_BINARY | cv2.THRESH_OTSU)
         return thresh
     
+    def validate_indian_format(self, text):
+        """Validate against Indian license plate pattern"""
+        return bool(self.plate_pattern.match(text))
+    
+    def clean_text(self, ocr_results):
+        """Indian plate specific cleaning"""
+        raw_text = ''.join(ocr_results).upper()
+        # Remove special characters and enforce Indian format
+        cleaned = re.sub(r'[^A-Z0-9]', '', raw_text)
+        # Format with spaces for better readability: MH 02 DE 1433
+        formatted = re.sub(r'^([A-Z]{2})(\d{2})([A-Z]{1,2})(\d{4})$', 
+                         r'\1 \2 \3 \4', cleaned)
+        return formatted.replace(' ', '')  # Return without spaces
+    
     def process_plate(self, image_path):
-        """
-        Process a single license plate image
-        :return: (text, confidence)
-        """
+        """Process single plate with Indian format validation"""
         image = cv2.imread(image_path)
         if image is None:
-            return ("Invalid image", 0.0)
+            return "Invalid Image"
             
         processed = self.preprocess_image(image)
-        results = self.reader.readtext(processed, detail=1)
+        results = self.reader.readtext(processed, detail=0)
         
         if not results:
-            return ("No text detected", 0.0)
+            return "No Text Detected"
         
-        # Filter and sort results by horizontal position
-        valid_results = [r for r in results if r[2] >= self.confidence_threshold]
-        sorted_results = sorted(valid_results, 
-                              key=lambda x: x[0][0][0])  # Sort by left-most x
-        
-        # Combine text and calculate average confidence
-        texts = []
-        confidences = []
-        for res in sorted_results:
-            texts.append(res[1])
-            confidences.append(res[2])
-        
-        combined_text = self.clean_text(texts)
-        avg_confidence = sum(confidences)/len(confidences) if confidences else 0.0
-        return (combined_text, avg_confidence)
-    
-    def clean_text(self, text_list):
-        """Clean and format detected text"""
-        full_text = ''.join(text_list).upper()
-        # Remove special characters while preserving alphanumerics
-        return ''.join(c for c in full_text if c.isalnum())
+        cleaned_text = self.clean_text(results)
+        if self.validate_indian_format(cleaned_text):
+            return cleaned_text
+        return "Invalid Indian Format"
     
     def process_directory(self, plates_dir):
-        """Process all images in directory"""
-        results = []
+        """Process all plates and save results with country tag"""
+        Path(plates_dir).mkdir(exist_ok=True)
         
-        for filename in sorted(os.listdir(plates_dir)):
-            if filename.lower().endswith(('.png', '.jpg', '.jpeg')):
-                filepath = os.path.join(plates_dir, filename)
-                text, confidence = self.process_plate(filepath)
-                results.append({
-                    'filename': filename,
-                    'text': text,
-                    'confidence': round(confidence, 3)
-                })
-        
-        # Save results
         with open(self.output_file, 'w') as f:
-            f.write("Filename|Detected Text|Confidence\n")
+            f.write("Filename|Plate Number|Country\n")
             f.write("-"*40 + "\n")
-            for res in results:
-                line = f"{res['filename']}|{res['text']}|{res['confidence']}\n"
-                f.write(line)
-        
-        print(f"Processed {len(results)} plates. Results saved to {self.output_file}")
+            
+            for filename in sorted(os.listdir(plates_dir)):
+                if filename.lower().endswith(('.png', '.jpg', '.jpeg')):
+                    filepath = os.path.join(plates_dir, filename)
+                    plate_text = self.process_plate(filepath)
+                    
+                    if plate_text not in ["Invalid Image", "No Text Detected", "Invalid Indian Format"]:
+                        line = f"{filename}|{plate_text}|Indian\n"
+                        f.write(line)
 
 if __name__ == "__main__":
-    # Initialize with GPU if available
-    extractor = PlateTextExtractor(gpu=True)
-    
-    # Process extracted plates directory
+    extractor = IndianPlateExtractor(gpu=False)
     extractor.process_directory("extracted_plates")
+    print(f"Indian plate results saved to {extractor.output_file}")

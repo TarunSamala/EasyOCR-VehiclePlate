@@ -1,0 +1,20 @@
+Filename|Plate Number|Country
+----------------------------------------
+Cars10_plate_0.png|TN37CS2765|Indian
+Cars111_plate_0.png|MH20EE7598|Indian
+Cars114_plate_0.png|AP29BP5855|Indian
+Cars126_plate_0.png|KA05KG1909|Indian
+Cars131_plate_0.png|AP29BP5815|Indian
+Cars212_plate_0.png|KL86H4383|Indian
+Cars219_plate_0.png|KA03MG2784|Indian
+Cars243_plate_0.png|KA03MG2784|Indian
+Cars255_plate_0.png|MH20EJ0364|Indian
+Cars259_plate_0.png|HH20EE7598|Indian
+Cars284_plate_0.png|KA09MA2662|Indian
+Cars323_plate_0.png|TN99F2378|Indian
+Cars333_plate_0.png|MH20EJ0364|Indian
+Cars373_plate_0.png|TN21BC8225|Indian
+Cars39_plate_0.png|HH15BD8877|Indian
+Cars415_plate_0.png|MH12NE8922|Indian
+Cars424_plate_0.png|KA03MG2784|Indian
+Cars73_plate_0.png|TN99F2378|Indian
